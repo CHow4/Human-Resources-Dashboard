@@ -54,5 +54,11 @@ The project will address the following key questions:
     _What is the tenure distribution for each department?_  
     Analyzing employee tenure by department will help identify areas of the company where employees stay longer, providing clues into departmental culture and satisfaction.
 
+#### Data Structure & Initial Checks:
+InsightCorp's database is made up of the following columns shown below with a total of 22,214 records.
+<img width="209" alt="image" src="https://github.com/user-attachments/assets/8ffe389b-ebf7-4268-a1bf-45a153277a9f">
+
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The data cleaning and data validation checks can be found here.
+
 ### Conclusion:
 Through this analysis, InsightCorp will obtain a detailed overview of its workforce dynamics. These insights will support the company’s strategic goals, especially in areas such as diversity and inclusion, employee retention, and workforce planning. The project will ultimately empower HR to make informed decisions that will drive organizational success.
