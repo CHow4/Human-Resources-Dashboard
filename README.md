@@ -1,9 +1,9 @@
 # InsightCorp Human Resources Data Analysis
 
-#### Company Background:
+### Company Background:
 InsightCorp is a mid-sized technology solutions company that specializes in providing cloud services and IT consulting to businesses across the United States. The company operates from its headquarters in San Francisco, California, and has a variety of satellite offices and remote work locations throughout the country. With over 1,000 employees spanning different departments such as IT, Marketing, Sales, Human Resources, and Finance, InsightCorp is committed to building a diverse and inclusive workforce. The company prides itself on having a dynamic, cross-functional team working in diverse roles ranging from software engineers to data analysts and HR professionals.
 
-#### Project Objective:
+### Project Objective:
 The goal of this project is to analyze the company's employee data to gain valuable insights into its workforce composition, distribution, and trends over time. This analysis will help the HR and executive teams at InsightCorp make data-driven decisions to improve employee engagement, diversity, and retention. The dataset contains detailed employee records, including demographic information, job titles, department affiliations, location details, and employment history. 
 
 The project will address the following key questions:
