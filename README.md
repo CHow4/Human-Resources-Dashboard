@@ -56,6 +56,7 @@ The project will address the following key questions:
 
 #### Data Structure & Initial Checks:
 InsightCorp's database is made up of the following columns shown below with a total of 22,214 records.
+
 <img width="209" alt="image" src="https://github.com/user-attachments/assets/8ffe389b-ebf7-4268-a1bf-45a153277a9f">
 
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The data cleaning and data validation checks can be found here.
