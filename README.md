@@ -8,7 +8,7 @@ The goal of this project is to analyze the company's employee data to gain valua
 
 The project will address the following key questions:
 
-### Insights to be Discovered:
+#### Insights to be Discovered:
 
 1. **Gender Breakdown**  
    _What is the gender breakdown of employees in the company?_  
@@ -54,5 +54,5 @@ The project will address the following key questions:
     _What is the tenure distribution for each department?_  
     Analyzing employee tenure by department will help identify areas of the company where employees stay longer, providing clues into departmental culture and satisfaction.
 
-#### Conclusion:
+### Conclusion:
 Through this analysis, InsightCorp will obtain a detailed overview of its workforce dynamics. These insights will support the company’s strategic goals, especially in areas such as diversity and inclusion, employee retention, and workforce planning. The project will ultimately empower HR to make informed decisions that will drive organizational success.
