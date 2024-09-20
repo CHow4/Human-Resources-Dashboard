@@ -13,5 +13,14 @@ InsightCorp's database is made up of the following columns shown below with a to
 
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The data cleaning and data validation checks can be found here.
 
-### Conclusion:
+### Data Exclusions and Adjustments:
+- **Active Employee Focus**: Analyses involving workforce demographics, location, job titles, and department distributions focus on employees without a termination date or with a future termination date. Including terminated employees would distort these metrics, as they are no longer part of the company’s workforce.
+
+- **Turnover and Tenure**: For analyses involving turnover rates, employment duration, and historical trends (e.g., employee count over time), terminated employees are included. However, they should only be used in the context of these questions.
+
+This approach ensures the accuracy and relevance of the insights for current workforce trends while still allowing meaningful analysis of past employee behavior for turnover and retention metrics.
+
+### Executive Summary:
 Through this analysis, InsightCorp will obtain a detailed overview of its workforce dynamics. These insights will support the company’s strategic goals, especially in areas such as diversity and inclusion, employee retention, and workforce planning. The project will ultimately empower HR to make informed decisions that will drive organizational success.
+
+
