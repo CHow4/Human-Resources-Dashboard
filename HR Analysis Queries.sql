@@ -20,3 +20,20 @@ FROM `astral-pursuit-390317.hr_data.human_resources`
 WHERE termdate IS NULL OR termdate > CURRENT_DATE;
 
 
+SELECT 
+  CASE 
+    WHEN age >=22 AND age <=25 THEN '22-25'
+    WHEN age >=26 AND age <=30 THEN '26-30'
+    WHEN age >=31 AND age <=35 THEN '31-35'
+    WHEN age >=36 AND age <=40 THEN '36-40'
+    WHEN age >=41 AND age <=45 THEN '41-45'
+    WHEN age >=46 AND age <=50 THEN '46-50'
+    WHEN age >=51 AND age <=55 THEN '51-55'
+    ELSE '55+'
+  END AS age_group,
+  COUNT(*) AS Total
+FROM `astral-pursuit-390317.hr_data.human_resources`
+WHERE termdate IS NULL OR termdate > CURRENT_DATE
+GROUP BY age_group
+ORDER BY age_group
+
