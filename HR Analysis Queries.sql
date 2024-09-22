@@ -100,3 +100,9 @@ GROUP BY year
 ORDER BY year 
 
 --11. What is the tenure distribution for each department?
+SELECT department,
+  ROUND(AVG(DATE_DIFF(termdate, hire_date, YEAR))) AS avg_tenure
+FROM `astral-pursuit-390317.hr_data.human_resources`
+WHERE termdate IS NOT NULL AND termdate < CURRENT_DATE
+GROUP BY department
+ORDER BY 2 DESC
