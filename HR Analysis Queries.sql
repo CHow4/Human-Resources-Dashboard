@@ -71,6 +71,19 @@ FROM `astral-pursuit-390317.hr_data.human_resources`
 WHERE termdate IS NOT NULL AND termdate < CURRENT_DATE
 
 --9. Which department has the highest turnover rate?
+--Overall turnover rate
+SELECT total_employees, terminated_count, ROUND((terminated_count/total_employees)*100,2) AS Turnover_rate
+FROM 
+(
+  SELECT COUNT(*) AS total_employees,
+  SUM (CASE 
+    WHEN termdate IS NOT NULL AND termdate < CURRENT_DATE THEN 1 
+    ELSE 0 
+    END) AS terminated_count
+  FROM `astral-pursuit-390317.hr_data.human_resources`
+) AS termed;
+
+--By department
 SELECT department, total_count, terminated_count, ROUND((terminated_count/total_count)*100,2) AS Turnover_rate
 FROM 
 (
