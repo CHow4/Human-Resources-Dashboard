@@ -11,7 +11,7 @@ InsightCorp's database is made up of the following columns shown below with a to
 
 <img width="209" alt="image" src="https://github.com/user-attachments/assets/8ffe389b-ebf7-4268-a1bf-45a153277a9f">
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The data cleaning and data validation checks can be found in the changelog [here](https://docs.google.com/spreadsheets/d/1HnZ8IwNgtlirOcl0OL2u6mgQqb8cflTtrXgNk-qdLcs/edit?usp=share_link).
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The data cleaning and data validation checks can be found in the changelog [here](https://drive.google.com/file/d/1rjXb9YdBGuQ0HZeeopQuqcMJljWLmsNw/view?usp=share_link).
 
 ### Data Exclusions and Adjustments:
 - **Active Employee Focus**: Analyses involving workforce demographics, location, job titles, and department distributions focus on employees without a termination date or with a future termination date. Including terminated employees would distort these metrics, as they are no longer part of the company’s workforce.
