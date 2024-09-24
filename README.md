@@ -23,6 +23,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 - **Turnover and Tenure**: For analyses involving turnover rates, employment duration, and historical trends (e.g., employee count over time), terminated employees are included. However, they should only be used in the context of these questions.
 
 This approach ensures the accuracy and relevance of the insights for current workforce trends while still allowing meaningful analysis of past employee behavior for turnover and retention metrics.
+***Note: The total number of active and terminated employees used in the calculations are based on employees' as of 9/22/24***
 
 ### Recommendations:
 
