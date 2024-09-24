@@ -3,7 +3,7 @@
 ### Executive Summary:
 Between 2000 and 2020, InsightCorp maintained a stable workforce with a gender split of 50.9% male, 46.4% female, and 2.8% non-conforming. Sales, HR, and Accounting have the longest tenure, while Auditing, Legal, and Training face the highest turnover. The overall company turnover rate stands at 11.65%, with an average employment duration of 8 years. Over 50% of employees identify as White (28.5%), Two or More Races (16.4%), or Black (16.3%). The workforce is primarily based in Ohio (75.1%) with 24.9% working remotely. Employee growth peaked in 2018 but declined in 2019 and 2020. Engineering, Accounting, and Sales are the largest departments.
 
-These insights will support the company’s strategic goals, especially in areas such as diversity and inclusion, employee retention, and workforce planning and ultimately empower HR to make informed decisions that will drive organizational success.
+These insights will support the company’s strategic goals, especially in areas such as diversity and inclusion, employee retention, and workforce planning, ultimately empower HR to make informed decisions that will drive organizational success.
 <img width="913" alt="image" src="https://github.com/user-attachments/assets/fa6a9b6b-df89-4478-818c-1ff4ce99d5ae">
 
 ### Company Background:
