@@ -1,7 +1,9 @@
 # InsightCorp Human Resources Data Analysis
 
 ### Executive Summary:
-These insights will support the company’s strategic goals, especially in areas such as diversity and inclusion, employee retention, and workforce planning. The project will ultimately empower HR to make informed decisions that will drive organizational success.
+Between 2000 and 2020, InsightCorp maintained a stable workforce with a gender split of 50.9% male, 46.4% female, and 2.8% non-conforming. Sales, HR, and Accounting have the longest tenure, while Auditing, Legal, and Training face the highest turnover. The overall company turnover rate stands at 11.65%, with an average employment duration of 8 years. Over 50% of employees identify as White (28.5%), Two or More Races (16.4%), or Black (16.3%). The workforce is primarily based in Ohio (75.1%) with 24.9% working remotely. Employee growth peaked in 2018 but declined in 2019 and 2020. Engineering, Accounting, and Sales are the largest departments.
+
+These insights will support the company’s strategic goals, especially in areas such as diversity and inclusion, employee retention, and workforce planning and ultimately empower HR to make informed decisions that will drive organizational success.
 <img width="913" alt="image" src="https://github.com/user-attachments/assets/fa6a9b6b-df89-4478-818c-1ff4ce99d5ae">
 
 ### Company Background:
@@ -26,6 +28,11 @@ This approach ensures the accuracy and relevance of the insights for current wor
 ***Note: The total number of active and terminated employees used in the calculations are based on employees' as of 9/22/24***
 
 ### Recommendations:
-
+- Focus on reducing turnover in Auditing, Legal, and Training.
+- Enhance diversity initiatives, especially in underrepresented racial groups.
+- Analyze the decline in employee count post-2018 for insights into workforce reduction.
+- Strengthen remote work policies to support the 24.9% remote workforce.
+- Leverage strong tenure in Sales, HR, and Accounting for retention strategies.
+- To lower the overall turnover rate (11.65%), improve employee engagement through career development programs, mentorship, and flexible work policies.
 
 
